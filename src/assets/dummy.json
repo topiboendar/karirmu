@@ -1,0 +1,74 @@
+[
+    {
+        "name": "PT. ABC Technologies",
+        "position": "Senior Web Developer",
+        "category": "IT",
+        "description": "Develop and maintain web applications using modern frameworks and tools.",
+        "salary": "Rp 20,000,000",
+        "employmentType": "Full-time",
+        "location": "Jakarta"
+    },
+    {
+        "name": "PT. XYZ Solutions",
+        "position": "Junior Data Analyst",
+        "category": "Data Science",
+        "description": "Analyze data sets to help drive business decisions.",
+        "salary": "Rp 8,000,000",
+        "employmentType": "Full-time",
+        "location": "Bandung, West Java"
+    },
+    {
+        "name": "CV. Kreatif Design",
+        "position": "Graphic Designer",
+        "category": "Design",
+        "description": "Create visual concepts to communicate ideas that inspire and inform customers.",
+        "salary": "Rp 10,000,000",
+        "employmentType": "Part-time",
+        "location": "Surabaya, East Java"
+    },
+    {
+        "name": "PT. Inovasi Digital",
+        "position": "Digital Marketing Specialist",
+        "category": "Marketing",
+        "description": "Plan and execute digital marketing campaigns.",
+        "salary": "Rp 13,000,000",
+        "employmentType": "Full-time",
+        "location": "Denpasar, Bali"
+    },
+    {
+        "name": "PT. Solusi Teknologi",
+        "position": "Junior Software Engineer",
+        "category": "IT",
+        "description": "Develop software solutions to meet customer requirements.",
+        "salary": "Rp 10,000,000",
+        "employmentType": "Full-time",
+        "location": "Yogyakarta"
+    },
+    {
+        "name": "PT. Bisnis Indonesia",
+        "position": "Business Analyst",
+        "category": "Business",
+        "description": "Evaluate business processes and recommend improvements.",
+        "salary": "Rp 14,000,000",
+        "employmentType": "Contract",
+        "location": "Medan, North Sumatra"
+    },
+    {
+        "name": "PT. Kreatif Media",
+        "position": "Senior Content Writer",
+        "category": "Media",
+        "description": "Write and edit content for various media platforms.",
+        "salary": "Rp 12,000,000",
+        "employmentType": "Freelance",
+        "location": "Makassar, South Sulawesi"
+    },
+    {
+        "name": "PT. Logistik Nusantara",
+        "position": "Logistics Coordinator",
+        "category": "Logistics",
+        "description": "Coordinate and oversee the supply chain operations.",
+        "salary": "Rp 11,000,000",
+        "employmentType": "Full-time",
+        "location": "Semarang, Central Java"
+    }
+]
